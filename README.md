@@ -1,3 +1,6 @@
+# Status- Abandoned
+Reason: Later disord added their own profile inspection feature so found no use of this
+
 # Masud Bot
  A Simple Bot for getting user info by giving user id or mentioning user.
  
